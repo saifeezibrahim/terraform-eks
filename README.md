@@ -99,7 +99,7 @@ kubectl get nodes
 
 ---
 
-## 🙋‍♂️ Maintained by Saifee Zibrahim
+## 🙋‍♂️ Maintained by Saifeez Ibrahim
 
 If you found this helpful, star ⭐ the repo or share it to help more people learn DevOps!
 
